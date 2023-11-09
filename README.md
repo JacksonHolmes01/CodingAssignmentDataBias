@@ -3,12 +3,19 @@
 This assignment required to download the Perspective API released by Google Jigsaw and create a hypothesis relating to the toxcicity score the API returns based off of written queries. My hypothesis was as follows: Starting the query with the action of an insult will result in a higher toxicity score than finishing the query with the action. Ex: " Leave, I don't like you" will be more toxic than "I don't like you, leave". Using 20 A queries, action first, and 20 B queries, insult first, I tested my hypothesis and not only aqquired the count of which query was more toxic but retruned the difference in toxicity between the queries and finally a total difference. My queries and results are as follows:
 
 Test Case 1
+
 Sentence A: You need to shut up, you are ugly
+
 Sentence B: You are ugly, you need to shut up
+
 Score of A: 0.8540474
+
 Score of B: 0.85850734
+
 Score of B is more toxic than Score of A by 0.00445993999999994 toxicity points
+
 Total A = 0
+
 Total B = 1
 
 Test Case 2
