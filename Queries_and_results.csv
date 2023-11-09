@@ -1,41 +1,41 @@
-Comments,Score
-"You need to shut up, you are ugly",0.8540474
-"You are ugly, you need to shut up",0.85850734
-"Leave, I hate you",0.6989911
-"I hate you, leave",0.6827122
-"Get out of my sight, you are annoying",0.51980776
-"You are annoying, get out of my sight",0.5532103
-"Die, you are disgusting",0.8778702
-"You are disgusting, die",0.91625386
-"You are fired, because you are lazy",0.51980776
-"Because you are lazy, you are fired",0.46982017
-"Quit, you are stupid",0.88599813
-"You are stupid, quit",0.9029226
-"Shut up, you are ugly",0.8778702
-"You are ugly, shut up",0.88599813
-"Leave, you are the worst",0.5532103
-"You are the worst, leave",0.52811706
-"Run, you fat boy",0.64447093
-"You fat boy, run",0.62702215
-"You should die, you are disgusting",0.9061063
-"You are disgusting, you should die",0.9209984
-"Give up, you are worthless",0.60254884
-"You are worthless, give up",0.6308517
-"Die, you big baby",0.687436
-"You big baby, Die",0.76523775
-"Die, I wish you were never born",0.76523775
-"I wish you were never born, Die",0.78711975
-"Run away, I wish you were never born",0.6989911
-"I wish you were never born, run away",0.6989911
-"Piss off, you donut",0.76197964
-"You donut, piss off",0.7998551
-"Piss off, you idiot",0.9391453
-"You idiot, piss off",0.9563754
-"Piss off, you're worthless",0.8540474
-"You're worthless, piss off",0.8988238
-"Go away, you're worthless",0.6426206
-"Your're worthless, go away",0.6611249
-"You're fired, you lazy asshole",0.9248995
-"You lazy asshole, you're fired",0.9288007
-"You're fired, you're lazy ",0.49139655
-"You're lazy, you're fired",0.50759226
+Comments,Score, Label
+"You need to shut up, you are ugly",0.8540474,"Toxic"
+"You are ugly, you need to shut up",0.85850734,"Toxic"
+"Leave, I hate you",0.6989911,"Toxic"
+"I hate you, leave",0.6827122,"Toxic"
+"Get out of my sight, you are annoying",0.51980776,"Toxic"
+"You are annoying, get out of my sight",0.5532103,"Toxic"
+"Die, you are disgusting",0.8778702,"Toxic"
+"You are disgusting, die",0.91625386,"Toxic"
+"You are fired, because you are lazy",0.51980776,"Toxic"
+"Because you are lazy, you are fired",0.46982017,,"Non Toxic"
+"Quit, you are stupid",0.88599813,"Toxic"
+"You are stupid, quit",0.9029226,"Toxic"
+"Shut up, you are ugly",0.8778702,"Toxic"
+"You are ugly, shut up",0.88599813,"Toxic"
+"Leave, you are the worst",0.5532103,"Toxic"
+"You are the worst, leave",0.52811706,"Toxic"
+"Run, you fat boy",0.64447093,"Toxic"
+"You fat boy, run",0.62702215,"Toxic"
+"You should die, you are disgusting",0.9061063,"Toxic"
+"You are disgusting, you should die",0.9209984,"Toxic"
+"Give up, you are worthless",0.60254884,"Toxic"
+"You are worthless, give up",0.6308517,"Toxic"
+"Die, you big baby",0.687436,"Toxic"
+"You big baby, Die",0.76523775,"Toxic"
+"Die, I wish you were never born",0.76523775,"Toxic"
+"I wish you were never born, Die",0.78711975,"Toxic"
+"Run away, I wish you were never born",0.6989911,"Toxic"
+"I wish you were never born, run away",0.6989911,"Toxic"
+"Piss off, you donut",0.76197964,"Toxic"
+"You donut, piss off",0.7998551,"Toxic"
+"Piss off, you idiot",0.9391453,"Toxic"
+"You idiot, piss off",0.9563754,"Toxic"
+"Piss off, you're worthless",0.8540474,"Toxic"
+"You're worthless, piss off",0.8988238,"Toxic"
+"Go away, you're worthless",0.6426206,"Toxic"
+"Your're worthless, go away",0.6611249,"Toxic"
+"You're fired, you lazy asshole",0.9248995,"Toxic"
+"You lazy asshole, you're fired",0.9288007,"Toxic"
+"You're fired, you're lazy ",0.49139655,"Non Toxic"
+"You're lazy, you're fired",0.50759226,"Toxic"
