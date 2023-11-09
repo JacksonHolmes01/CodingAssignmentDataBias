@@ -19,187 +19,333 @@ Total A = 0
 Total B = 1
 
 Test Case 2
+
 Sentence A: Leave, I hate you
+
 Sentence B: I hate you, leave
+
 Score of A: 0.6989911
+
 Score of B: 0.6827122
+
 Score of A is more toxic than Score of B by 0.016278899999999985 toxicity points
+
 Total A = 1
+
 Total B = 1
 
 Test Case 3
+
 Sentence A: Get out of my sight, you are annoying
+
 Sentence B: You are annoying, get out of my sight
+
 Score of A: 0.51980776
+
 Score of B: 0.5532103
+
 Score of B is more toxic than Score of A by 0.03340254000000009 toxicity points
+
 Total A = 1
+
 Total B = 2
 
 Test Case 4
+
 Sentence A: Die, you are disgusting
+
 Sentence B: You are disgusting, die
+
 Score of A: 0.8778702
+
 Score of B: 0.91625386
+
 Score of B is more toxic than Score of A by 0.03838365999999993 toxicity points
+
 Total A = 1
+
 Total B = 3
 
 Test Case 5
+
 Sentence A: You are fired, because you are lazy
+
 Sentence B: Because you are lazy, you are fired
+
 Score of A: 0.51980776
+
 Score of B: 0.46982017
+
 Score of A is more toxic than Score of B by 0.04998758999999997 toxicity points
+
 Total A = 2
+
 Total B = 3
 
 Test Case 6
+
 Sentence A: Quit, you are stupid
+
 Sentence B: You are stupid, quit
+
 Score of A: 0.88599813
+
 Score of B: 0.9029226
+
 Score of B is more toxic than Score of A by 0.01692446999999997 toxicity points
+
 Total A = 2
+
 Total B = 4
 
 Test Case 7
+
 Sentence A: Shut up, you are ugly
+
 Sentence B: You are ugly, shut up
+
 Score of A: 0.8778702
+
 Score of B: 0.88599813
+
 Score of B is more toxic than Score of A by 0.008127930000000005 toxicity points
+
 Total A = 2
+
 Total B = 5
 
 Test Case 8
+
 Sentence A: Leave, you are the worst
+
 Sentence B: You are the worst, leave
+
 Score of A: 0.5532103
+
 Score of B: 0.52811706
+
 Score of A is more toxic than Score of B by 0.025093240000000017 toxicity points
+
 Total A = 3
+
 Total B = 5
 
 Test Case 9
+
 Sentence A: Run, you fat boy
+
 Sentence B: You fat boy, run
+
 Score of A: 0.64447093
+
 Score of B: 0.62702215
+
 Score of A is more toxic than Score of B by 0.017448780000000053 toxicity points
+
 Total A = 4
+
 Total B = 5
 
 Test Case 10
+
 Sentence A: You should die, you are disgusting
+
 Sentence B: You are disgusting, you should die
+
 Score of A: 0.9061063
+
 Score of B: 0.9209984
+
 Score of B is more toxic than Score of A by 0.014892099999999964 toxicity points
+
 Total A = 4
+
 Total B = 6
 
 Test Case 11
+
 Sentence A: Give up, you are worthless
+
 Sentence B: You are worthless, give up
+
 Score of A: 0.60254884
+
 Score of B: 0.6308517
+
 Score of B is more toxic than Score of A by 0.02830286000000004 toxicity points
+
 Total A = 4
+
 Total B = 7
 
 Test Case 12
+
 Sentence A: Die, you big baby
+
 Sentence B: You big baby, Die
+
 Score of A: 0.687436
+
 Score of B: 0.76523775
+
 Score of B is more toxic than Score of A by 0.07780175 toxicity points
+
 Total A = 4
+
 Total B = 8
 
 Test Case 13
+
 Sentence A: Die, I wish you were never born
+
 Sentence B: I wish you were never born, Die
+
 Score of A: 0.76523775
+
 Score of B: 0.78711975
+
 Score of B is more toxic than Score of A by 0.021881999999999957 toxicity points
+
 Total A = 4
+
 Total B = 9
 
 Test Case 14
+
 Sentence A: Run away, I wish you were never born
+
 Sentence B: I wish you were never born, run away
+
 Score of A: 0.6989911
+
 Score of B: 0.6989911
+
 Score of B is equally toxic of Score of A by 0.0 toxicity points
+
 Total A = 4
+
 Total B = 9
+
 Equal = 1
 
 Test Case 15
+
 Sentence A: Piss off, you donut
+
 Sentence B: You donut, piss off
+
 Score of A: 0.76197964
+
 Score of B: 0.7998551
+
 Score of B is more toxic than Score of A by 0.03787546000000008 toxicity points
+
 Total A = 4
+
 Total B = 10
+
 Equal = 1
 
 Test Case 16
+
 Sentence A: Piss off, you idiot
+
 Sentence B: You idiot, piss off
+
 Score of A: 0.9391453
+
 Score of B: 0.9563754
+
 Score of B is more toxic than Score of A by 0.017230100000000026 toxicity points
+
 Total A = 4
+
 Total B = 11
+
 Equal = 1
 
 Test Case 17
+
 Sentence A: Piss off, you're worthless
+
 Sentence B: You're worthless, piss off
+
 Score of A: 0.8540474
+
 Score of B: 0.8988238
+
 Score of B is more toxic than Score of A by 0.04477639999999994 toxicity points
+
 Total A = 4
+
 Total B = 12
+
 Equal = 1
 
 Test Case 18
+
 Sentence A: Go away, you're worthless
+
 Sentence B: Your're worthless, go away
+
 Score of A: 0.6426206
+
 Score of B: 0.6611249
+
 Score of B is more toxic than Score of A by 0.01850430000000003 toxicity points
+
 Total A = 4
+
 Total B = 13
+
 Equal = 1
 
 Test Case 19
+
 Sentence A: You're fired, you lazy asshole
+
 Sentence B: You lazy asshole, you're fired
+
 Score of A: 0.9248995
+
 Score of B: 0.9288007
+
 Score of B is more toxic than Score of A by 0.003901200000000049 toxicity points
+
 Total A = 4
+
 Total B = 14
+
 Equal = 1
 
 Test Case 20
+
 Sentence A: You're fired, you're lazy 
+
 Sentence B: You're lazy, you're fired
+
 Score of A: 0.49139655
+
 Score of B: 0.50759226
+
 Score of B is more toxic than Score of A by 0.01619571000000003 toxicity points
-Total A = 4
-Total B = 15
-Equal = 1
 
 Total A = 4
+
 Total B = 15
+
 Equal = 1
+
+
+
+Total A = 4
+
+Total B = 15
+
+Equal = 1
+
 The difference in the score of the times A was more toxic than B is: 0.10880851000000002
+
 The difference in the score of the times B was more toxic than A is: 0.38266042000000006
 
 # Conclusions from data
