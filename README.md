@@ -2,7 +2,9 @@
 
 This assignment required to download the Perspective API released by Google Jigsaw and create a hypothesis relating to the toxcicity score the API returns based off of written queries. My hypothesis was as follows: Starting the query with the action of an insult will result in a higher toxicity score than finishing the query with the action. Ex: " Leave, I don't like you" will be more toxic than "I don't like you, leave". Using 20 A queries, action first, and 20 B queries, insult first, I tested my hypothesis and not only aqquired the count of which query was more toxic but retruned the difference in toxicity between the queries and finally a total difference. My queries and results are as follows:
 
+
 Test Case 1
+
 
 Sentence A: You need to shut up, you are ugly
 
@@ -18,7 +20,9 @@ Total A = 0
 
 Total B = 1
 
+
 Test Case 2
+
 
 Sentence A: Leave, I hate you
 
@@ -34,7 +38,9 @@ Total A = 1
 
 Total B = 1
 
+
 Test Case 3
+
 
 Sentence A: Get out of my sight, you are annoying
 
@@ -50,7 +56,9 @@ Total A = 1
 
 Total B = 2
 
+
 Test Case 4
+
 
 Sentence A: Die, you are disgusting
 
@@ -66,7 +74,9 @@ Total A = 1
 
 Total B = 3
 
+
 Test Case 5
+
 
 Sentence A: You are fired, because you are lazy
 
@@ -82,7 +92,9 @@ Total A = 2
 
 Total B = 3
 
+
 Test Case 6
+
 
 Sentence A: Quit, you are stupid
 
@@ -98,7 +110,9 @@ Total A = 2
 
 Total B = 4
 
+
 Test Case 7
+
 
 Sentence A: Shut up, you are ugly
 
@@ -130,7 +144,9 @@ Total A = 3
 
 Total B = 5
 
+
 Test Case 9
+
 
 Sentence A: Run, you fat boy
 
@@ -146,7 +162,9 @@ Total A = 4
 
 Total B = 5
 
+
 Test Case 10
+
 
 Sentence A: You should die, you are disgusting
 
@@ -178,7 +196,9 @@ Total A = 4
 
 Total B = 7
 
+
 Test Case 12
+
 
 Sentence A: Die, you big baby
 
@@ -194,7 +214,9 @@ Total A = 4
 
 Total B = 8
 
+
 Test Case 13
+
 
 Sentence A: Die, I wish you were never born
 
@@ -210,7 +232,9 @@ Total A = 4
 
 Total B = 9
 
+
 Test Case 14
+
 
 Sentence A: Run away, I wish you were never born
 
@@ -228,7 +252,9 @@ Total B = 9
 
 Equal = 1
 
+
 Test Case 15
+
 
 Sentence A: Piss off, you donut
 
@@ -246,7 +272,9 @@ Total B = 10
 
 Equal = 1
 
+
 Test Case 16
+
 
 Sentence A: Piss off, you idiot
 
@@ -264,7 +292,9 @@ Total B = 11
 
 Equal = 1
 
+
 Test Case 17
+
 
 Sentence A: Piss off, you're worthless
 
@@ -282,7 +312,9 @@ Total B = 12
 
 Equal = 1
 
+
 Test Case 18
+
 
 Sentence A: Go away, you're worthless
 
@@ -300,7 +332,9 @@ Total B = 13
 
 Equal = 1
 
+
 Test Case 19
+
 
 Sentence A: You're fired, you lazy asshole
 
@@ -318,7 +352,9 @@ Total B = 14
 
 Equal = 1
 
+
 Test Case 20
+
 
 Sentence A: You're fired, you're lazy 
 
@@ -336,6 +372,8 @@ Total B = 15
 
 Equal = 1
 
+
+Results
 
 
 Total A = 4
