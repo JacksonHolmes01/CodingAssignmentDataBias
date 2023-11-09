@@ -7,7 +7,7 @@ Comments,Score, Label
 "You are annoying, get out of my sight",0.5532103,"Toxic"
 "Die, you are disgusting",0.8778702,"Toxic"
 "You are disgusting, die",0.91625386,"Toxic"
-"You are fired, because you are lazy",0.51980776,"Toxic"
+"You are fired because you are lazy",0.51980776,"Toxic"
 "Because you are lazy, you are fired",0.46982017,,"NonToxic"
 "Quit, you are stupid",0.88599813,"Toxic"
 "You are stupid, quit",0.9029226,"Toxic"
